@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "questao_03.C": "cpp",
+        "questao_06.C": "cpp",
+        "questao_07.C": "cpp",
+        "questao_08.C": "cpp",
+        "questao_04.C": "cpp",
+        "questao_05.C": "cpp",
+        "teste.C": "cpp",
+        "media.C": "cpp"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "enabled"
+}
